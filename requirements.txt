@@ -1,6 +1,5 @@
-gunicorn == 22.0.0
 Pandas == 2.1.4
 NumPy == 1.26.4
 Scikit-learn == 1.2.2
 Plotly == 5.9.0
-streamlit
+streamlit==1.24.0
